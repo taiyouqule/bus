@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:27
+-keep class tongji.edu.activity.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class tongji.edu.activity.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class tongji.edu.activity.MyTabActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class tongji.edu.activity.NextTicket { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class tongji.edu.activity.Preferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class tongji.edu.activity.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class tongji.edu.activity.SetRestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class tongji.edu.activity.ShowBusActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class tongji.edu.useless.RecordActivity { <init>(...); }
+
